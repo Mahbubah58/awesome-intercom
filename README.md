@@ -8,7 +8,7 @@ _Updated: 2026-02-20 08:02 UTC_
 - Upstream IntercomSwap: https://github.com/TracSystems/intercom-swap
 - Fork indexes: https://github.com/Trac-Systems/intercom/forks and https://github.com/TracSystems/intercom-swap/forks
 
-Included forks/branches: **119** (Intercom: 91, IntercomSwap: 28)
+Included forks/branches in this list: **119** from a total of 170+ forks (Intercom: 91, IntercomSwap: 28)
 
 ## Intercom Forks
 - [BikaEvrything/axelbuddy-intercom-ai](https://github.com/BikaEvrything/axelbuddy-intercom-ai) — AxelBuddy Web3 AI onboarding assistant built from Intercom
